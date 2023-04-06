@@ -1,0 +1,17 @@
+.card-white {
+    border-radius:7px;
+    background-color: white;
+    box-shadow: 1px 1px 6px 2px rgba(0, 0, 0, 0.35);
+    padding:16px;
+}
+
+.cards{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 16px;
+}
+
+.card-white img {
+    width: 100%;
+}
+

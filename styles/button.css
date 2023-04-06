@@ -1,0 +1,15 @@
+.btn-blue {
+    color:white;
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 7px;
+    padding: 16px;
+    font-weight: bold;
+}
+.btn-blue:hover {
+    background-color: white;
+    color: blue;
+    transform: rotate(360deg);
+    transition: 3s;
+
+    }
